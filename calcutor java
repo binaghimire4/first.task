@@ -1,0 +1,13 @@
+import java.lang;
+
+class Calculator {
+  public int add (let x, let y){return x+y};
+  public static void main(String args[]){
+        system.out.println("This is calculator feature.");
+
+    }
+public int substract(int x, int y){
+    return x-y;
+}
+
+}
